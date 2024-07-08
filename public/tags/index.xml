@@ -6,15 +6,8 @@
     <description>Recent content in Tags on Abu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
     <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My Blog Tages</title>
-      <link>https://example.org/tags/my-blog-tages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/tags/my-blog-tages/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Scene</title>
       <link>https://example.org/tags/scene/</link>

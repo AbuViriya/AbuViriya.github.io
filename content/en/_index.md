@@ -1,10 +1,9 @@
 ---
-title: "Ananke: a Hugo Theme"
-
-description: "The last theme you'll ever need. Maybe."
-# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
-theme_version: '2.8.2'
-cascade:
-  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+title: "Abu's channel"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+{{<figure src="https://animalcorner.org/wp-content/uploads/2020/07/Japanese-Dog-Breeds-Akita.jpg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
+
+I was born on Mars in 1995. Four days after my birth, I moved to the Earth with my family. There, what I saw shocked me greatly. 
+
+这是我 1995 年在火星出生后第三天的照片。第四天，我被运往地球，在那里看到的东西把我吓傻了。
